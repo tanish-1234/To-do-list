@@ -32,20 +32,13 @@ A simple **To-Do List** application built with **EJS**, **JavaScript**, and **Po
 
 
 
+### Key Updates:
+- **Installation Steps** now include `npm install` for installing dependencies.
+- **Run Command**: The command to run the application is `node index.js`, which is typically the entry point for a Node.js app.
+- **Accessing the app**: The app is accessible on `http://localhost:3000`.
+
+This should be more comprehensive now for setting up and running your project. Let me know if you need further assistance!
 
 
 
 
-
-### Key Sections of the README:
-- **Features**: Describes what the app does.
-- **Technologies Used**: Lists the main tools and technologies for the project.
-- **Installation**: Step-by-step guide to set up the project.
-- **Usage**: Explains how to use the app once it's running.
-- **File Structure**: Gives an overview of the directory structure.
-- **Contributing**: Instructions for contributing to the project.
-- **License**: Information about the project license.
-
-You can edit the sections to match your actual project setup (e.g., if your file names are different or if you've added more features).
-
-Let me know if you'd like further adjustments!
